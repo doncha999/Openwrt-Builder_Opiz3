@@ -22,5 +22,5 @@ unzip tar gzip openssh-sftp-server sms-tool luci-app-temp-status cpusage \
 adb ttyd luci-app-ttyd bash dmesg screen kmod-tun jq luci-lib-ipkg \
 ipset ipt2socks iptables iptables-mod-iprange \
 iptables-mod-socket iptables-mod-tproxy \
-coreutils-nohup curl dns2socks ip-full libuci-lua lua luci-compat luci-lib-jsonc \
+curl dns2socks ip-full libuci-lua lua luci-compat luci-lib-jsonc \
 microsocks resolveip tcping
